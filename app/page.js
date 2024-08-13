@@ -16,7 +16,7 @@ export default function Home() {
           />
         </div>
 
-        <div className="flex gap-x-4 absolute z-50">
+        <div className="flex flex-wrap justify-center items-center gap-4 absolute z-50">
           <a
             href="https://wa.link/cli62i"
             target="_blank"
